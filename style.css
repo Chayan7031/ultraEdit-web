@@ -317,10 +317,14 @@ a{
         width: 90vw;
     }
     .price p{
-        position: absolute;
-        color: white;
+        display: none;
+        /*color: white;*/
         top: 0;
         left: 0;
+    }
+
+    .price{
+        display: none
     }
 
     .search button{
