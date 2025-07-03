@@ -328,9 +328,8 @@ a{
     }
 
     .search button{
+        display:none;
         position: absolute;
-        color: white;
-        border-color: white;
         top: 0;
         left: 0;
     }
