@@ -340,7 +340,7 @@ a{
     }
 
     .search p{
-        position: absolute;
+        display: none;
         color: white;
         top: 0;
         left: 0;
